@@ -1,9 +1,6 @@
 # Ajeabal
 <div align="center">
   
-	
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=B3FFAE&height=250&section=header&text=%20Yewon%20GitHub%20🍀&fontSize=60)
-  
 
 
 <span>💻 현재 공부중인 웹개발 & 백엔드 주니어 개발자입니다.</span>
